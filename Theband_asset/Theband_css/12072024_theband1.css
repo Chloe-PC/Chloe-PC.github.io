@@ -467,7 +467,7 @@ html {
 }
 
 .modal-header {
-    background-color: #009688;
+    background-color: #932b4d;
     height: 130px;
     display: flex;
     align-items: center;
@@ -514,7 +514,7 @@ html {
 }
 
 #buy-tickets {
-    background-color: #009688;
+    background-color: #932b4d;
     text-transform: uppercase;
     padding: 18px;
     width: 100%;
