@@ -218,7 +218,7 @@ html {
     position: relative;
     padding-top: 50%;
     margin-top: 46px;
-    background: url('./Theband_asset/Theband_slider/bp_slider.jpg') center top / cover no-repeat;
+    background: url('../../Theband_asset/Theband_slider/bp_slider.jpg') center top / cover no-repeat;
 }
 
 #slider .text-content {
